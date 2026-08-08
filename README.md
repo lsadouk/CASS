@@ -184,16 +184,13 @@ CASS prevents emotionally and pedagogically dangerous retrievals.
 
 ## Citation
 
-```bibtex
-@article{sadouk2025cass,
-  title     = {CASS: A Context-Aware Semantic Similarity Framework
-               for Safe Retrieval in Child-Facing Educational Applications},
-  author    = {Sadouk, Lamyaa AND Gadi, Taoufiq},
-  journal   = {Education and Information Technologies},
-  year      = {2025},
-  publisher = {Springer}
+@unpublished{sadouk2025cass,
+  title  = {CASS: A Context-Aware Semantic Similarity Framework
+             for Safe Retrieval in Child-Facing Educational Applications},
+  author = {Sadouk, Lamyaa and Gadi, Taoufiq},
+  note   = {Manuscript submitted for publication},
+  year   = {2025}
 }
-```
 
 ---
 
