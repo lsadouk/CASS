@@ -4,7 +4,7 @@
 
 [![HuggingFace](https://img.shields.io/badge/🤗%20Dataset-QESC-blue)](https://huggingface.co/datasets/lamyaa/QESC)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
@@ -188,7 +188,7 @@ CASS prevents emotionally and pedagogically dangerous retrievals.
 @article{sadouk2025cass,
   title     = {CASS: A Context-Aware Semantic Similarity Framework
                for Safe Retrieval in Child-Facing Educational Applications},
-  author    = {Sadouk, Lamyaa AND Gadi, Tauoufiq},
+  author    = {Sadouk, Lamyaa AND Gadi, Taoufiq},
   journal   = {Education and Information Technologies},
   year      = {2025},
   publisher = {Springer}
@@ -199,8 +199,24 @@ CASS prevents emotionally and pedagogically dangerous retrievals.
 
 ## License
 
-MIT License
+CC BY-NC 4.0 — Creative Commons Attribution-NonCommercial 4.0 International
 
 ---
 
 *Built for children in Morocco and beyond.*
+
+---
+
+## License Details
+
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+**You are free to:**
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit and cite the paper above
+- **NonCommercial** — You may not use the material for commercial purposes
+
+For commercial licensing inquiries, contact the author.
