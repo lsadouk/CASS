@@ -2,10 +2,10 @@
 
 **A lightweight safety-aware retrieval framework for specialized child-facing applications.**
 
-[![HuggingFace](https://img.shields.io/badge/🤗%20Dataset-QESC-blue)](https://huggingface.co/datasets/lamyaa/QESC)
+[![HuggingFace QESC](https://img.shields.io/badge/🤗%20Dataset-QESC-blue)](https://huggingface.co/datasets/lsadouk1111/QESC) 
+[![HuggingFace PhonEx](https://img.shields.io/badge/🤗%20Dataset-PhonEx-orange)](https://huggingface.co/datasets/lsadouk1111/PhonEx)
 [![Python](https://img.shields.io/badge/Python-3.8+-green)](https://python.org)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 ---
 
 ## What is CASS?
